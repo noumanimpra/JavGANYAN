@@ -1,2 +1,0 @@
-Fonksiyondan veri çekme
-https://stackoverflow.com/questions/41364257/how-do-i-return-a-value-from-a-java-function
